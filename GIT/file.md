@@ -1,8 +1,22 @@
-# Arquivo de Teste 
+# O que é o Git?
+O Git é sistema de controle de versão distribuída projetado para gerenciar qualquer coisa, desde de pequenos até grandes projetos com eficiência e velociade.
 
-Arquivo feito para testar os comandos do git.
-- alterar
-- verificar status
-- adicionar
-- commit
-- push
+## Comandos
+
+- **git init**
+>O comando ==git init== é utilizado
+	
+- **git config**
+>
+- **git add**
+>
+- **git push**
+>
+- **git pull**
+>
+- **git rebase**
+>
+- **git checkout**
+>
+- **git branch**
+>
