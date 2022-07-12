@@ -14,21 +14,19 @@ Um diretório oculto é criado. (Para remover o diretório do repositório, bast
 > Este comando nos permite verificar o estado no qual se encontra o repositório local, visualizando se algum arquivo foi alterado.
 
 - **git add**
->  .<br>
-É interessante notar aqui mesmo que os arquivos sejam preparados, não significa que serão entregues. Erros podem ser listados durante a etapa do *commit* ou *push*.
+>  Adicona arquivos, diretórios, qualquer alteração que não for ignorada para o índice, permitindo ocorrer o *commit*.<br>
 
 - **git commit**
->O `git commit` funciona preparando os arquivos que deverão ser entregues aos repositório local e remoto.<br> Normalmente seguido da `-m` para dizer quais alterações foram feitas e estão sendo passadas ao repositório.
+> O `git commit` funciona preparando os arquivos que deverão ser entregues aos repositório local e remoto.<br> Normalmente seguido da `-m` para dizer quais alterações foram feitas e estão sendo passadas ao repositório.
  
 - **git push**
->Este comando é responsável por enviar os arquivos *"comitados"* do repositório local para o repositório remoto. Sua sintaxe é bastante simples: `git push origin` `<branch>`*
+> Este comando é responsável por enviar os arquivos *"comitados"* do repositório local para o repositório remoto. Sua sintaxe é bastante simples: `git push origin` `<branch>`*
 
 - **git pull**
-O comando ´git pull` 
->
-- **git rebase**
->
+> O comando ´git pull` permite trazer do repositório arquivos ou pastas do repositório remoto.
+
 - **git checkout**
->
+> O comando `git checkout` nos permite mudar o *branch* de trabalho atual. As *tags* `-b` e `-B` permitem criar os *branchs*, caso não existam; a diferença entre as *tags* é que `-B` cria se não existir. 
+
 - **git branch**
->
+> `git branch` nos permite ver (`--list`), apagar ( `--delete`) os *branchs* existentes, ou criar novos no repositório.
