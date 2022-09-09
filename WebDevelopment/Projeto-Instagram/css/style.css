@@ -215,6 +215,11 @@ a:link{
         border: 1px solid transparent;
     }
 
+    .get_btns{
+        width: 340px;
+        justify-content: space-around;
+    }
+
     .footerstyle{
         min-width: 340px;
         background-color: white;
