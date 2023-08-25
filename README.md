@@ -1,17 +1,29 @@
 ﻿# Índice do Repositório
-[![Status](https://github.com/odantonio/Javascript-Bootcamp/blob/main/status-andamento.png?branch=main)](https://github.com/odantonio/Javascript-Bootcamp/blob/main/status-andamento.png)
+[![Status](https://github.com/odantonio/Bootcamp/blob/main/status-andamento.png?branch=main)](https://github.com/odantonio/Bootcamp/blob/main/status-andamento.png)
  
-### Conteúdo criado no Bootcamp _Impulso Javascript Evolution_ pela DIO.
+### Conteúdo criado no Bootcamp da DIO.
 
 Lista de diretórios a seguir:
 
 
 
 * **Portugol:** 
-	*Conteúdo desenvolvido durante as aulas de lógica de programação e algorítimos.*
+	> *Lógica de programação e algorítimos.*
 	>
+ 
 * **GIT:** 
-	*Conteúdo para melhor entendimento das funcionalidades do GIT e GitHub.*
+	> *Conteúdo para melhor entendimento das funcionalidades do GIT e GitHub.*
 	>
+ 
 * **Java:**
-	*Revisando programação em Java.*
+	> *Revisando programação em Java.*
+  	>
+
+* **Javascript:**
+	> *Aprendizado de Javascript.*
+  	>
+
+* **Web-Devel:**
+	> *Revisão de CSS, PHP e HTML.*
+	>
+  
