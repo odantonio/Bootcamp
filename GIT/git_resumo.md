@@ -1,8 +1,8 @@
-# Resumo | O que é o Git?
+# ![books](https://img.icons8.com/emoji/96/books-emoji.png) Resumo | O que é o Git?
 O Git é sistema de controle de versão distribuída projetado para gerenciar qualquer coisa, desde de pequenos até grandes projetos com eficiência e velocidade.
 
 
-## Principais Comandos
+## ![bookmakrs](https://img.icons8.com/emoji/48/bookmark-tabs.png) Principais Comandos
 
 
 - **git init**
@@ -10,7 +10,16 @@ O Git é sistema de controle de versão distribuída projetado para gerenciar qu
 Um diretório oculto é criado. (Para remover o diretório do repositório, basta apagar este o diretório *.git*).
 
 - **git config**
-> Este comando serve para configurar o nosso repositório. 
+> Este comando serve para configurar o nosso repositório.
+
+> Principais opções: 
+> - `--system`: Configurações do sistema ao invés do repositório. 
+> - `--global`: Configurações globais do __git__ . 
+> - `--local`: Configurações do repositório. 
+> - `--worktree`: Se `config.worktree` estiver habilitado, este arquivo será lido e escrito ao invés do `.config`. Caso contrário, será idêntico ao local. 
+
+> - `user.name`: *Setar* o nome da conta. 
+> - `user.email`: *Setar* o email da conta. 
 > 
 
 
@@ -44,9 +53,9 @@ Um diretório oculto é criado. (Para remover o diretório do repositório, bast
 > `git log` nos permite ver o histórico de alterações realizadas em nosso repositório. 
 > 
 
-#### Mais Informações ####
+#### ![bookmakrs](https://img.icons8.com/emoji/48/bookmark-tabs.png) Mais Informações ####
 
 > Documentação Oficial
- >> - Git:  <https://git-scm.com/doc>
- >> - GitHub: <https://docs.github.com/pt>
+ >> - [1] [Git Docs](<https://git-scm.com/doc>)
+ >> - [2] [GitHub Docs](<https://docs.github.com/pt>)
 >
