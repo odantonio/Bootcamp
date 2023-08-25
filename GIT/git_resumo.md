@@ -1,9 +1,8 @@
-# [![books](https://img.icons8.com/emoji/96/books-emoji.png)] 
-	Resumo | O que é o Git? #
+# ![books](https://img.icons8.com/emoji/96/books-emoji.png)	Resumo | O que é o Git? 
 O Git é sistema de controle de versão distribuída projetado para gerenciar qualquer coisa, desde de pequenos até grandes projetos com eficiência e velocidade.
 
 
-## ![bookmakrs](https://img.icons8.com/emoji/48/bookmark-tabs.png) Principais Comandos ##
+## ![bookmakrs](https://img.icons8.com/emoji/48/bookmark-tabs.png) Principais Comandos 
 
 
 - **git init**
@@ -54,7 +53,7 @@ Um diretório oculto é criado. (Para remover o diretório do repositório, bast
 > `git log` nos permite ver o histórico de alterações realizadas em nosso repositório. 
 > 
 
-#### ![bookmakrs](https://img.icons8.com/emoji/48/bookmark-tabs.png) Mais Informações ####
+#### ![bookmakrs](https://img.icons8.com/emoji/48/bookmark-tabs.png) Mais Informações
 
 > Documentação Oficial
  >> - [1] [Git Docs](<https://git-scm.com/doc>)
