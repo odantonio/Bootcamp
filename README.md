@@ -8,10 +8,18 @@ Lista de diretórios a seguir:
 
 
 * **Portugol:** 
-	*Conteúdo desenvolvido durante as aulas de lógica de programação e algorítimos.*
+	*Lógica de programação e algorítimos.*
 	>
 * **GIT:** 
 	*Conteúdo para melhor entendimento das funcionalidades do GIT e GitHub.*
 	>
 * **Java:**
 	*Revisando programação em Java.*
+  	>
+* **Javascript:**
+	*Aprendizado de Javascript.*
+  	>
+* **Web-Devel:**
+	*Revisão de CSS, PHP e HTML.*
+
+  
