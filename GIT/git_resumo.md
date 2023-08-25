@@ -1,6 +1,7 @@
 # ![books](https://img.icons8.com/emoji/96/books-emoji.png)	Resumo | O que é o Git? 
 O Git é sistema de controle de versão distribuída projetado para gerenciar qualquer coisa, desde de pequenos até grandes projetos com eficiência e velocidade.
 
+
 ## ![bookmakrs](https://img.icons8.com/emoji/48/bookmark-tabs.png) Principais Comandos 
 
 - **git init**
@@ -14,7 +15,7 @@ Um diretório oculto é criado. (Para remover o diretório do repositório, bast
 > - `--system`: Configurações do sistema ao invés do repositório. 
 > - `--global`: Configurações globais do __git__ . 
 > - `--local`: Configurações do repositório. 
-> - `--worktree`: Se `config.worktree` estiver habilitado, este arquivo será lido e escrito ao invés do `.config`. Caso contrário, será idêntico ao local. >
+> - `--worktree`: Se `config.worktree` estiver habilitado, este arquivo será lido e escrito ao invés do `.config`. Caso contrário, será idêntico ao local.
 > - `user.name`: *Setar* o nome da conta. 
 > - `user.email`: *Setar* o email da conta. 
 
