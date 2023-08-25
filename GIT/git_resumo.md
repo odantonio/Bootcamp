@@ -1,8 +1,9 @@
-# ![books](https://img.icons8.com/emoji/96/books-emoji.png) Resumo | O que é o Git?
+# [![books](https://img.icons8.com/emoji/96/books-emoji.png)] 
+	Resumo | O que é o Git? #
 O Git é sistema de controle de versão distribuída projetado para gerenciar qualquer coisa, desde de pequenos até grandes projetos com eficiência e velocidade.
 
 
-## ![bookmakrs](https://img.icons8.com/emoji/48/bookmark-tabs.png) Principais Comandos
+## ![bookmakrs](https://img.icons8.com/emoji/48/bookmark-tabs.png) Principais Comandos ##
 
 
 - **git init**
