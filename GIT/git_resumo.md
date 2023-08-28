@@ -47,10 +47,14 @@ Um diretório oculto é criado. (Para remover o diretório do repositório, bast
 - **git log**
 > `git log` nos permite ver o histórico de alterações realizadas em nosso repositório. 
 
-#### ![bookmakrs](https://img.icons8.com/emoji/48/bookmark-tabs.png) Mais Informações
+- **git merge**
+> `git merge` permite mesclar/unificar alterações feitas em um *branch* em outro *branch*. 
 
-> Documentação Oficial
- >> - [1] [Git Docs](<https://git-scm.com/doc>)
- >> - [2] [GitHub Docs](<https://docs.github.com/pt>)
+### ![bookmakrs](https://img.icons8.com/emoji/48/bookmark-tabs.png) Mais Informações
+
+#### Referências
+> - [1] [Git Docs](<https://git-scm.com/doc>)
+> - [2] [GitHub Docs](<https://docs.github.com/pt>)
+> - [3] [DIO.me](https://github.com/elidianaandrade/dio-curso-git-github)
 >
 
