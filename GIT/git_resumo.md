@@ -11,7 +11,7 @@ Um diretório oculto é criado. (Para remover o diretório do repositório, bast
 - **git config**
 > Este comando serve para configurar tanto o git quanto nosso repositório.
 >
-> |Principais opções:| |
+> |Principais opções: |
 >|---|---|
 > | `--system`:	|Configurações do sistema ao invés do repositório. |
 > | `--global`:	|Configurações globais do __git__ .| 
