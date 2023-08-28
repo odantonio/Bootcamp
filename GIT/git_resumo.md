@@ -56,5 +56,6 @@ Um diretório oculto é criado. (Para remover o diretório do repositório, bast
 > - [1] [Git Docs](<https://git-scm.com/doc>)
 > - [2] [GitHub Docs](<https://docs.github.com/pt>)
 > - [3] [DIO.me](https://github.com/elidianaandrade/dio-curso-git-github)
+> - [4] [Markdown](https://www.markdownguide.org/basic-syntax/)
 >
 
